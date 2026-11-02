@@ -1,0 +1,11 @@
+# IDE
+.idea
+.vscode
+
+# C#
+*.user
+bin/
+obj/
+
+# Other
+__local
